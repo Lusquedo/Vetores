@@ -1,1 +1,4 @@
-# Vetores
+Soma e Média de Elementos: Crie um programa que solicite ao usuário que insira 10 números inteiros em um vetor. Em seguida, calcule e exiba a soma e a média dos números inseridos. 
+Busca em Vetor: Elabore um programa que permita ao usuário inserir 10 nomes em um vetor. Após a inserção, o programa deve solicitar um nome a ser buscado e informar se o nome está presente no vetor, exibindo sua posição se encontrado. 
+Contagem de Números Pares e Ímpares: Escreva um programa que solicite ao usuário a entrada de 15 números inteiros e armazene-os em um vetor. Após isso, conte e exiba quantos números são pares e quantos são ímpares. 
+Cálculo da Média: Crie um programa que permita ao usuário inserir 5 notas de alunos em um vetor. Calcule a média das notas e informe quantos alunos estão acima da média, quantos estão abaixo e quantos estão exatamente na média. 
